@@ -1,4 +1,10 @@
+teereeerrre
+<<<<<<< HEAD
 rocal 
+=======
+
+//Edited by github
+>>>>>>> grigin/master
 add 1
 Hello Git
 Edited by RB1.0 branch
