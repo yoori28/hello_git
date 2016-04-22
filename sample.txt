@@ -1,5 +1,10 @@
 add 1
 Hello Git
 Edited by RB1.0 branch
+<<<<<<< HEAD
 master
 rb3.0
+=======
+maste
+teee
+>>>>>>> master
